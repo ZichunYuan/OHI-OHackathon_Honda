@@ -5,8 +5,6 @@ We built a data-driven application using Android Studio that enables individual 
 
 Firstly we wrote a graphic user interface to acquire the vehicle information from the user, and then calculated the vehicle’s value with our algorithm.  We are able to build an interactive graphic user interface to provide the information as a graph to provide an explicit visualization for our user.
 
-<img src="Hack1.PNG">
-
 <img src="Hack2.PNG">
 
 Used open source  https://www.themoneycalculator.com/vehicle-finance/calculators/car-depreciation-by-make-and-model/
