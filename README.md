@@ -3,7 +3,7 @@ This is the project accomplished in HackOHI/O 2020 and is for competing in the H
 
 We built a data-driven application using Android Studio that enables individual car owners to maximize the useful value of their mobility investment.
 
-Firstly we wrote a graphic user interface to acquire the vehicle information from the user, and then calculated the vehicle’s value with our algorithm.  We are able to build an interactive graphic user interface to provide the information as a graph to provide an explicit visualization for our user.
+Firstly we built an interactive user interface to acquire the vehicle information from the user, and then calculated the vehicle’s value with our algorithm.  We showed the vhecile value in the form of chart and graph.
 
 <img src="Hack2.PNG">
 
