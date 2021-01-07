@@ -8,6 +8,7 @@ Firstly we wrote a graphic user interface to acquire the vehicle information fro
 <img src="Hack2.PNG">
 
 Used open source  https://www.themoneycalculator.com/vehicle-finance/calculators/car-depreciation-by-make-and-model/
+
 By utilizing data from the open source, we developed a model of vehicle value based on make, model, and built-year.
 
 <img src="Hack3.PNG">
