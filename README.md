@@ -1,5 +1,5 @@
 # OHI/O Hackathon_Honda
-This is the project accomplished in HackOHI/O 2020 and is for competing in the Honda challenge.
+This was the project accomplished in HackOHI/O 2020 within 48 hours and was for competing in the Honda challenge.
 
 We built a data-driven application using Android Studio that enables individual car owners to maximize the useful value of their mobility investment.
 
