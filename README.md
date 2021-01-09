@@ -9,6 +9,6 @@ Firstly we built an interactive user interface to acquire the vehicle informatio
 
 Then we used open source  https://www.themoneycalculator.com/vehicle-finance/calculators/car-depreciation-by-make-and-model/
 
-By utilizing data from the open source, we developed a model of vehicle value based on make, model, and built-year. We showed the vehicle value in the form of chart and graph.
+By using Mathematica, we were able to extract useful data from the open source. Then we developed a model of vehicle value based on make, inital purchased price, and built-year. We showed the vehicle value in the form of chart and graph.
 
 <img src="Hack3.PNG">
