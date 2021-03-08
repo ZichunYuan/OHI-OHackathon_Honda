@@ -1,7 +1,7 @@
 # OHI/O Hackathon_Honda
 This was the project accomplished in HackOHI/O 2020 within 48 hours and was for competing in the Honda challenge.
 
-We built a data-driven application using Android Studio that enables individual car owners to maximize the useful value of their mobility investment.
+We built a data-driven application using Android Studio that enables individual car owners to maximize the useful value of their mobility investment. It displays the change in monetary value of vehicles for the future five years.
 
 Firstly we built an interactive user interface to acquire the vehicle information from the user.
 
